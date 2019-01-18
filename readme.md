@@ -20,10 +20,10 @@ SYRAS will help you with Step 2. It allows you to import from journal database s
 3. De-duplication of references
 4. Team collaboration tools: email invites, blinding, access controls, comments.
 5. Systematic Review workflow tools: 
-5.1. Review phases,
-5.2. Split reference library into sub-sets, 
-5.3. Randomisation and workload distribution,
-5.4. Classification disagreements review
+  * Review phases,
+  * Split reference library into sub-sets, 
+  * Randomisation and workload distribution,
+  * Classification disagreements review
 6. Assistance: keyword highlighting, document classification prediction, keyboard shortcuts
 7. Personal data management and privacy controls
 
