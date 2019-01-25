@@ -29,9 +29,9 @@ SYRAS will help you with Step 2. It allows you to import from journal database s
 6. Assistance: keyword highlighting, document classification prediction, keyboard shortcuts
 7. Personal data management and privacy controls
 
-[Screenshots](screenshot.md)
-    
-## How to use SYRAS
+[Screenshots](screenshots.md)
+
+## How to get SYRAS
 
 There are two ways to use SYRAS, depending on your budget and technical skills.
 

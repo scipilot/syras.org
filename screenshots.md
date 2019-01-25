@@ -4,7 +4,7 @@
 
 ### Manage multiple projects
 
-![Project Management](/assets/images/screenshots/v0.15/project-management.png "")
+![Project Management](/assets/images/screenshots/v0.15/project-management.png "Project Management")
 
 ![Project Home](/assets/images/screenshots/v0.15/project-home.png "")
 
