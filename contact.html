@@ -2,18 +2,48 @@
 layout: default
 ---
 
-For more details about using SYRAS online please send us an enquiry:
+<a href="/">&lt; Back to SYRAS homepage</a>
+
+
+<h2>
+    Contact Us
+</h2>
+
+<p>
+    For more details about using SYRAS online you can send an enquiry here.
+</p>
 
 <form id="contact-form" action="https://formspree.io/" method="POST" />
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <textarea name="message" placeholder="Test Message"></textarea>
-    <input type="submit" value="Send">
+
+<table id="ilovetablebasedlayoutsandthistemplatehasnothingelse">
+<tr>
+    <td>
+        <input type="text" name="name" placeholder="Enter your name...">
+    </td>
+</tr>
+<tr>
+    <td>
+        <input type="email" name="_replyto" placeholder="Enter your email...">
+    </td>
+</tr>
+<tr>
+    <td>
+        <textarea name="message" placeholder="Enter your message here..."></textarea>
+    </td>
+</tr>
+<tr>
+    <td>
+        <input type="submit" value="Send enquiry">
+    </td>
+</tr>
+    
+</table>
+
 </form>
 
 <script>
     var form = document.getElementById("contact-form");
-    // basic antispam
+    // basic anti spam scraping
     form.action += "syras-info"+"@"
     form.action += "scipilot"+".";
     form.action += "org";
