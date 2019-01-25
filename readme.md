@@ -1,5 +1,5 @@
 
-SYRAS is an online reference screening tool, aimed at assisting the process of reviewing thousands of articles during a systematic review. 
+SYRAS is an online reference screening tool, aimed at assisting the process of reviewing and classifying thousands of article abstracts during a systematic review. 
 
 Where does SYRAS fit into the wider review process?
 
