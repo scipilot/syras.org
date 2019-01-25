@@ -37,7 +37,7 @@ SYRAS enables you to import from journal database searches in common formats (RI
 There are two ways to use SYRAS, depending on your budget and technical skills.
 
 1. Supported (cloud hosted): you can purchase access to an online application for individual or teams at syras.org. 
-Contact `syras-info @ scipilot .org` with your requirements to discuss options.
+<a href="/contact.html">Click here contact us<a/> with your requirements to discuss options.
 2. DIY (self hosted): SYRAS is open source and therefore freely available for you to install and manage your own instance of the application.
 
 Details
@@ -70,7 +70,7 @@ We are looking for collaborators to help us progressing this goal. What would be
 * anyone interested in coding or machine learning (software development)
 * or any other ideas!
 
-Please contact us at `syras-info @ scipilot .org` for more information.
+Please <a href="/contact.html">click here to contact us<a/> for more information.
 
 ---
 
