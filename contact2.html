@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<a href="/">&lt; Back to SYRAS homepage</a>
+
+
+<h2>
+    Contact Us
+</h2>
+
+<p>
+    For more details about using SYRAS online please send us a brief description of your requirements.
+</p>
+
+<form id="contact-form" action="https://formspree.io/" method="POST" />
+
+<dl>
+    <dt>
+        Your name
+    </dt>
+    <dd>
+        <input type="text" name="name">
+    </dd>
+    <dt>
+        Your email
+    </dt>
+    <dd>
+        <input type="email" name="_replyto" >
+    </dd>
+    <dt>
+        Message
+    </dt>
+    <dd>
+        <textarea name="message" ></textarea>
+    </dd>
+</dl>
+
+<input type="submit" value="Send enquiry">
+    
+</form>
+
+<script>
+    var form = document.getElementById("contact-form");
+    // basic anti spam scraping
+    form.action += "syras-info"+"@"
+    form.action += "scipilot"+".";
+    form.action += "org";
+</script>
