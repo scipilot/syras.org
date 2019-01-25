@@ -1,6 +1,3 @@
-![logo](/assets/images/SYRAS-logo-thin-small.png "SYRAS")
-
-# SYRAS - A Systematic Review Assistant
 
 SYRAS is an online reference screening tool, aimed at assisting the process of reviewing thousands of articles during a systematic review. 
 
@@ -13,7 +10,7 @@ A typical workflow scenario might be summarised as follows: SYRAS will help you 
 3. Data extraction (of experimental methods, results/statistics)
 4. Meta-analysis and/or further research.
 
-It allows you to import from journal database searches in common formats (RIS, PubMed) and merge and deduplicate the resulting reference sets into a unified library. You can then quickly screen the references by title and abstracts (alone or in a team of reviewers) flagging the articles which are relevent to your study. Once you have a settled on the subset of relevent references, you may export this list to another RIS or PubMed file, for import into Endnote or other document management system to purchase the articles. You can return to SYRAS later and add further references and repeat the process or modify your choices - supporting a wide variety of workflows.
+SYRAS enables you to import from journal database searches in common formats (RIS, PubMed, EndNote) and merge and deduplicate the resulting reference sets into a unified library. You can then quickly screen the references by title and abstracts (alone or in a team of reviewers) flagging the articles which are relevent to your study. Once you have a settled on the subset of relevent references, you may export this list to another RIS or PubMed file, for import into Endnote or other document management system to purchase the articles. You can return to SYRAS later and add further references and repeat the process or modify your choices - supporting a wide variety of workflows.
 
 ## Overview of Features
 
@@ -24,15 +21,18 @@ It allows you to import from journal database searches in common formats (RIS, P
 5. Systematic Review workflow tools: 
   * Review phases,
   * Split reference library into sub-sets, 
-  * Randomisation and workload distribution,
+  * Randomisation and screening workload division,
   * Classification disagreements review
-6. Assistance: keyword highlighting, document classification prediction, keyboard shortcuts
-7. Personal data management and privacy controls
+6. Screening Assistance: 
+  * visual keyword highlighting, 
+  * keyboard shortcuts, 
+  * document classification prediction (see below)
+7. Personal data management and simple privacy controls
 
 ## Screenshots
 [Click here to see some screenshots of the app in action](screenshots.md)
 
-## How to get SYRAS
+## How to get SYRAS?
 
 There are two ways to use SYRAS, depending on your budget and technical skills.
 
@@ -71,3 +71,7 @@ We are looking for collaborators to help us progressing this goal. What would be
 * or any other ideas!
 
 Please contact us at `syras-info @ scipilot .org` for more information.
+
+---
+
+![logo](/assets/images/SYRAS-logo-thin-small.png "SYRAS")
