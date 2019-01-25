@@ -1,3 +1,5 @@
+![logo](/assets/images/SYRAS-logo-thin-small.png "SYRAS")
+
 # SYRAS - A Systematic Review Assistant
 
 SYRAS is an online reference screening tool, aimed at assisting the process of reviewing thousands of articles during a systematic review. 
@@ -27,6 +29,7 @@ SYRAS will help you with Step 2. It allows you to import from journal database s
 6. Assistance: keyword highlighting, document classification prediction, keyboard shortcuts
 7. Personal data management and privacy controls
 
+[Screenshots](screenshot.md)
     
 ## How to use SYRAS
 

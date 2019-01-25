@@ -1,0 +1,12 @@
+
+// $header-bg-color = 
+$header-bg-color-secondary: "1e7cda";
+
+@import "{{ site.theme }}";
+
+// shrink the header, change the gradient
+.page-header {
+    // needs doing in breakbpoints... but no variables?
+    padding: 2rem; 
+    //background-image: linear-gradient(120deg, #155799, #1e7cda)
+}
