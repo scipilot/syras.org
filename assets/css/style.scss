@@ -1,8 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
 
 // $header-bg-color = 
 $header-bg-color-secondary: "1e7cda";
-
-@import "{{ site.theme }}";
 
 // shrink the header, change the gradient
 .page-header {
