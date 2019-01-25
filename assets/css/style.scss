@@ -10,8 +10,7 @@ $header-bg-color-secondary: #1e7cda;
 .page-header {
     // overrides all breakpoints, I just want it smaller.
     padding: 1rem; 
-    //background-image: linear-gradient(120deg, #155799, #1e7cda)
-    background-image: url(/assets/images/SYRAS-logo-thin.png);
+    background-image: url(/assets/images/SYRAS-logo-thin.png), linear-gradient(120deg, #155799, #1e7cda);
     background-repeat: no-repeat;
 }
 
