@@ -47,5 +47,7 @@ Here are a selection of screenshots to give you an idea of how SYRAS works.
 ![Article Screening Screenshot](/assets/images/screenshots/v0.15/screening1.png "Article screening in progress"){: .screenshot}
 
 
+![Article Screening Animation](/assets/images/screenshots/v0.15/screening-demo.gif "Article screening demo and options tooltips"){: .screenshot}
+
 [< Back to SYRAS homepage](readme.md)
  

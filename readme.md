@@ -47,7 +47,9 @@ If you simply want access to an online app, the SYRAS creators at scipilot.org c
 
 If funding is not available but you or your organisation have IT skills, you can set up your own web application hosting and install the software via Docker, Amazon ECS or even manually. The [Docker installation](https://github.com/scipilot/sysrev-assist-docker) is fully automated and works well on a Docker host such as Digital Ocean's one-click app, including automated setup and renewal of web security certificates via Let's Encrypt. An Amazon AWS ECS installation option is also being developed.
 
-The software is still in "beta", so there are a number of pilot trials already running. Please contact us if you want to get involved.
+### Beta programme
+As the software is still in "beta" (final testing and evaluation), there are a number of pilot trials running which you could join for free. 
+Please contact us if you want to get involved in trialling the beta software and helping to improve it.
 
 
 ## Research into Automating Systematic Reviews using AI
@@ -70,7 +72,17 @@ We are looking for collaborators to help us progressing this goal. What would be
 * anyone interested in coding or machine learning (software development)
 * or any other ideas!
 
-Please <a href="/contact.html">click here to contact us<a/> for more information.
+Please <a href="/contact.html">click here to contact us<a/> for more information on the further development of SYRAS.
+
+## About the developers
+
+SYRAS was originally developed by a collaboration between Pip Jones of [Scipilot.org](https://scipilot.org) and Dr Nic Badcock and other researchers from [Macquarie University](https://mq.edu.au), migrating a MATLAB product to online.
+
+More details can be found on the [scipilot.org development blog](http://scipilot.org/blog/2018/04/13/introducing-systematic-review-assistant/).
+
+SYRAS is the second major product developed by Scipilot, after [MOTIf](https://motif.org.au) which provides online test resources 
+primarily to assist diagnosing reading and learning difficulties in children. The MOTIf application has been running online for over 10 years, 
+and we are proud to have helped tens of thousands of children across Australia and the world. I would hope SYRAS could become as popular and helpful.
 
 ---
 
