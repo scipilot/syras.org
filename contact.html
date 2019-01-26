@@ -15,30 +15,29 @@ layout: default
 
 <form id="contact-form" action="https://formspree.io/" method="POST" />
 
-<table id="ilovetablebasedlayoutsandthistemplatehasnothingelse">
-<tr>
-    <td>
-        <input type="text" name="name" placeholder="Enter your name...">
-    </td>
-</tr>
-<tr>
-    <td>
-        <input type="email" name="_replyto" placeholder="Enter your email...">
-    </td>
-</tr>
-<tr>
-    <td>
-        <textarea name="message" placeholder="Enter your message here..."></textarea>
-    </td>
-</tr>
-<tr>
-    <td>
-        <input type="submit" value="Send enquiry">
-    </td>
-</tr>
-    
-</table>
+<dl>
+    <dt>
+        Your name
+    </dt>
+    <dd>
+        <input type="text" name="name">
+    </dd>
+    <dt>
+        Your email
+    </dt>
+    <dd>
+        <input type="email" name="_replyto" >
+    </dd>
+    <dt>
+        Message
+    </dt>
+    <dd>
+        <textarea name="message" cols="50" rows="10"></textarea>
+    </dd>
+</dl>
 
+<input type="submit" value="Send enquiry">
+    
 </form>
 
 <script>
