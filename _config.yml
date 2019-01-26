@@ -4,3 +4,19 @@ description: Systematic Review Assistant
 logo: SYRAS-logo.png
 show_downloads: false
 google_analytics: UA-25794102-3
+#github.is_project_page: false
+
+# Local preview:
+# export JEKYLL_VERSION=3.8
+# cd ~/Sites/syras.org/syras.org-github-pages 
+# docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll build
+# docker run --name syras.local -p 8080:80 -v ~/Sites/syras.org/syras.org-github-pages/_site:/usr/share/nginx/html:ro -d nginx
+# View http://0.0.0.0:8080/ 
+
+# added for local build (see starefossen/github-pages which I think does both the above dockers in one)
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji

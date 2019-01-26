@@ -12,6 +12,7 @@ $header-bg-color-secondary: #1e7cda;
     padding: 1rem; 
     background-image: url(/assets/images/SYRAS-logo-thin.png), linear-gradient(120deg, #155799, #1e7cda);
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 // screenshots have a dropshadow to show they're not real UI
