@@ -8,8 +8,6 @@ Here are a selection of screenshots to give you an idea of how SYRAS works.
 
 ![Project Management Screenshot](/assets/images/screenshots/v0.15/project-management.png "Project management page"){: .screenshot}
 
-![Project Home](/assets/images/screenshots/v0.15/project-home.png ""){: .screenshot}
-
 
 ### Import references
 
@@ -18,7 +16,8 @@ Here are a selection of screenshots to give you an idea of how SYRAS works.
 
 ### Deduplicate references 
 
-![Reference Dedupe Screenshot](/assets/images/screenshots/v0.15/reference-dedupe.png "Reference deduplication process with visual difference highlight"){: .screenshot}
+![Reference Dedupe Screenshot](/assets/images/screenshots/v0.18/dedupe-example1.png "Reference deduplication process with visual difference highlight"){: .screenshot}
+
 
 ### Divide reference library into subsets
 
@@ -29,7 +28,7 @@ Here are a selection of screenshots to give you an idea of how SYRAS works.
 
 ### Invite collaborators
 
-![Project Collaborators Screenshot](/assets/images/screenshots/v0.15/project-collaborators.png "Project Collaborators"){: .screenshot}
+![Project Collaborators Screenshot](/assets/images/screenshots/v0.18/collaborators-example2.png "Project Collaborators"){: .screenshot}
 
 
 ### Project settings

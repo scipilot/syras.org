@@ -34,23 +34,47 @@ SYRAS enables you to import from journal database searches in common formats (RI
 
 ## How to get SYRAS?
 
-There are two ways to use SYRAS, depending on your budget and technical skills.
+There are three ways to use SYRAS, depending on your budget and technical skills.
 
-1. Supported (cloud hosted): you can purchase access to an online application for individual or teams at syras.org. 
-<a href="/contact.html">Click here contact us<a/> with your requirements to discuss options.
+1. Beta programme: you can join the beta programme and use the application now, if you are willing to help finalise the software.
+
 2. DIY (self hosted): SYRAS is open source and therefore freely available for you to install and manage your own instance of the application.
 
-Details
+3. Once the system has been put through its paces in the beta programme, syras.org will host an easy to use online version with support and assistance.
+You will be able to purchase access to the online application for individual or teams at syras.org.  
+<a href="/contact.html">Click here contact us<a/> to register interest and discuss your requirements.
+
+### Beta programme details
+As the software is still in "beta" (product testing and evaluation), there are pilot trials running which you may join for no cost. 
+
+The latest version of SYRAS is currently hosted on a small-scale limited access platform which is fully functional but not professionally supported. 
+
+Please contact us if you want to get involved in trialling the beta software and helping to improve and finalise it.
+ <a href="/contact.html">Click here contact syras.org<a/>.
+
+### DIY (self hosted) details
+
+If funding is not available but you or your organisation have IT skills, you can set up your own instance of the web application on your own hosting provider and install and manage the software and database yourself.
+
+It can be run via containers in Docker or Amazon AWS ECS, or manually as a "MEAN stack" application. The [Docker installation](https://github.com/scipilot/sysrev-assist-docker) is fully automated and works well on a Docker host such as Digital Ocean's one-click app, including automated setup and renewal of web security certificates via Let's Encrypt. An Amazon AWS ECS installation option is also being developed.
+
+### Paid Application details (future)
 
 If you simply want access to an online app, the SYRAS creators at scipilot.org can provide a supported instance, with pricing depending on the scale of your project requirements. Factors include the size of your team of collaborators, how many article references you expect to be importing and how long you will need access to the data. As reviews may run intermittently over months or even years, maintaining a monthly paid plan for the entire duration may not be suitable. Therefore import/export features may be required to shutdown the project during long periods of inactivity.
 
+## About the developers
 
-If funding is not available but you or your organisation have IT skills, you can set up your own web application hosting and install the software via Docker, Amazon ECS or even manually. The [Docker installation](https://github.com/scipilot/sysrev-assist-docker) is fully automated and works well on a Docker host such as Digital Ocean's one-click app, including automated setup and renewal of web security certificates via Let's Encrypt. An Amazon AWS ECS installation option is also being developed.
+SYRAS was originally developed by a collaboration between Pip Jones of [Scipilot.org](https://scipilot.org) and Dr Nic Badcock and other researchers from [Macquarie University](https://mq.edu.au), migrating a MATLAB product to online.
 
-### Beta programme
-As the software is still in "beta" (final testing and evaluation), there are a number of pilot trials running which you could join for free. 
-Please contact us if you want to get involved in trialling the beta software and helping to improve it.
+More history can be found on the [scipilot.org development blog](http://scipilot.org/blog/2018/04/13/introducing-systematic-review-assistant/).
 
+SYRAS is the second major product developed by Scipilot, after [MOTIf](https://motif.org.au) which provides online test resources 
+primarily to assist diagnosing reading and learning difficulties in children. The MOTIf application has been running online for over 10 years, 
+and we are proud to have helped tens of thousands of children across Australia and the wider world. 
+I would hope SYRAS could become as popular and helpful.
+
+
+# Future Directions
 
 ## Research into Automating Systematic Reviews using AI
 
@@ -74,15 +98,6 @@ We are looking for collaborators to help us progressing this goal. What would be
 
 Please <a href="/contact.html">click here to contact us<a/> for more information on the further development of SYRAS.
 
-## About the developers
-
-SYRAS was originally developed by a collaboration between Pip Jones of [Scipilot.org](https://scipilot.org) and Dr Nic Badcock and other researchers from [Macquarie University](https://mq.edu.au), migrating a MATLAB product to online.
-
-More details can be found on the [scipilot.org development blog](http://scipilot.org/blog/2018/04/13/introducing-systematic-review-assistant/).
-
-SYRAS is the second major product developed by Scipilot, after [MOTIf](https://motif.org.au) which provides online test resources 
-primarily to assist diagnosing reading and learning difficulties in children. The MOTIf application has been running online for over 10 years, 
-and we are proud to have helped tens of thousands of children across Australia and the world. I would hope SYRAS could become as popular and helpful.
 
 ---
 
