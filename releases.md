@@ -2,7 +2,7 @@
 
 # Release History 
 
-## v0.19 Second Beta 
+## v0.19 Second Beta (May 2020)
 
 New Features
 
@@ -27,7 +27,7 @@ Fixes
 - Email addresses were being treated as case sensitive which could lead to duplicate accounts and confusion.
 - The issue which led to users seeing "Please close and re-open the project" has been addressed.
 
-## v0.18 Initial Beta Updates
+## v0.18 Initial Beta Updates (Feb 2020)
 
 Since the release of the initial beta and the guides several improvements were made. 
 
