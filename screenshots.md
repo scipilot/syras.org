@@ -20,7 +20,7 @@ Here are a selection of screenshots to give you an idea of how SYRAS works.
 
 ### Deduplication options
 
-![Deduplication Options Screenshot](/assets/images/screenshots/v0.19/v0.19-deduplication-options.png "Reference deduplication options"){: .screenshot width="1432px" height="574px"}
+![Deduplication Options Screenshot](/assets/images/screenshots/v0.19/v0.19-deduplication-options.png "Reference deduplication options"){: .screenshot height="333px"}
 
 ### Deduplicate references 
 
