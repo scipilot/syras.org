@@ -2,7 +2,7 @@
 
 # Release History 
 
-## v0.19 Second Beta (May 2020)
+## v0.19.17 - Second Beta (July 2020)
 
 New Features
 
@@ -17,6 +17,8 @@ New Features
     This allows you to download the new "Agreed Includes" set, which you can then add to the final "includes" from a disagreements re-review.
     Previously it wasn't possible to export the final set of overall agreed "includes".
     This enables you to do it in two steps, while a single step export will be developed in a future version.
+- **Import History** - the project page now keeps a list of the files imported so far. 
+    This helps you keep track when importing many files from different sources.
 
 Improvements
 
