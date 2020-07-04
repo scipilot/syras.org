@@ -2,7 +2,7 @@
 
 # Release History 
 
-## v0.19.17 - Second Beta (July 2020)
+## v0.19.18 - Second Beta (July 2020)
 
 New Features
 
@@ -19,6 +19,14 @@ New Features
     This enables you to do it in two steps, while a single step export will be developed in a future version.
 - **Import History** - the project page now keeps a list of the files imported so far. 
     This helps you keep track when importing many files from different sources.
+- **Merge Article Sets** - you can now merge two Article Sets, allowing you to combine the results of different processes. 
+  This is primarily intended to facilitate the export of the final "include" sets, 
+  from both initial positive agreements plus eventual agreements after a disagreement re-review.
+  It can also be used to recombine split workloads, or a combination of both of examples.
+  This allows you to complete the process of performing split-workload, dual-screening 
+  and disagreement reviews, and end up with one simple set of "include" articles, 
+  which can then itself be exported to RIS or Endnote.
+        
 
 Improvements
 
