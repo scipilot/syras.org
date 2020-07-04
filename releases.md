@@ -27,7 +27,6 @@ New Features
   and disagreement reviews, and end up with one simple set of "include" articles, 
   which can then itself be exported to RIS or Endnote.
         
-
 Improvements
 
 - The dedupe review process was significantly improved, especially with multiple-duplicates (triplicates etc).
