@@ -33,6 +33,11 @@ SYRAS enables you to import from journal database searches in common formats (RI
   * document classification prediction (see below)
 7. Personal data management and simple privacy controls
 
+SYRAS provides the following process stages.
+ 
+![SYRAS Process Stages](/assets/images/diagrams/SYRAS-process-stages.png "SYRAS Process Stages")
+
+
 ## Screenshots
 [Click here to see some screenshots of the app in action](screenshots.md)
 
