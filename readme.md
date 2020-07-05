@@ -14,6 +14,11 @@ A typical workflow scenario might be summarised as follows: SYRAS will help you 
 
 ![Where SYRAS helps](/assets/images/diagrams/where-syras-sits.png "Where SYRAS helps")
 
+SYRAS provides the following process stages.
+ 
+![SYRAS Process Stages](/assets/images/diagrams/SYRAS-process-stages.png "SYRAS Process Stages")
+
+
 SYRAS enables you to import from journal database searches in common formats (RIS, PubMed, EndNote) and merge and deduplicate the resulting reference sets into a unified library. You can then quickly screen the references by title and abstracts (alone or in a team of reviewers) flagging the articles which are relevent to your study. Once you have a settled on the subset of relevent references, you may export this list to another RIS or PubMed file, for import into Endnote or other document management system to purchase the articles. You can return to SYRAS later and add further references and repeat the process or modify your choices - supporting a wide variety of workflows.
 
 ## Overview of Features
@@ -32,10 +37,6 @@ SYRAS enables you to import from journal database searches in common formats (RI
   * keyboard shortcuts, 
   * document classification prediction (see below)
 7. Personal data management and simple privacy controls
-
-SYRAS provides the following process stages.
- 
-![SYRAS Process Stages](/assets/images/diagrams/SYRAS-process-stages.png "SYRAS Process Stages")
 
 
 ## Screenshots
