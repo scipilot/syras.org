@@ -12,6 +12,8 @@ A typical workflow scenario might be summarised as follows: SYRAS will help you 
 3. Data extraction (of experimental methods, results/statistics)
 4. Meta-analysis and/or further research.
 
+![Where SYRAS helps](/assets/images/diagrams/where-syras-sits.png "Where SYRAS helps")
+
 SYRAS enables you to import from journal database searches in common formats (RIS, PubMed, EndNote) and merge and deduplicate the resulting reference sets into a unified library. You can then quickly screen the references by title and abstracts (alone or in a team of reviewers) flagging the articles which are relevent to your study. Once you have a settled on the subset of relevent references, you may export this list to another RIS or PubMed file, for import into Endnote or other document management system to purchase the articles. You can return to SYRAS later and add further references and repeat the process or modify your choices - supporting a wide variety of workflows.
 
 ## Overview of Features
@@ -33,6 +35,17 @@ SYRAS enables you to import from journal database searches in common formats (RI
 
 ## Screenshots
 [Click here to see some screenshots of the app in action](screenshots.md)
+
+## Example Workflow
+
+This diagram illustrates one example of a project workflow, where an initial set of article references, 
+is split into two subsets to distribute the screening between four collaborators, who perform pairs of dual-screening,
+followed by a disagreemetns review. Finally the administrator merges the results back into 
+a single set of agreed "include" articles, and exports the results from SYRAS to acquire the full texts elsehwere.
+This shows the scope of the role SYRAS plays.
+
+![Example Worfklow 1](/assets/images/diagrams/SYRAS-example-workflow1.png "Example Worfklow 1")
+
 
 ## How to get SYRAS?
 
