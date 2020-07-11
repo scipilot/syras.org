@@ -2,7 +2,7 @@
 
 # Release History 
 
-## v0.19.18 - Second Beta (July 2020)
+## v0.19.19 - Second Beta (July 2020)
 
 New Features
 
@@ -36,7 +36,8 @@ Improvements
   The deeper dedupes take much longer than this.).
 - Dedupe now has a "progress" page showing how far it has got, and how long it will take. You can even log out and return and the dedupe will continue running in the background.
   The project page has been updated to show different controls, depending on whether there is a dedupe running, both to inform the user
-  but also to prevent two dedupes being run at once. 
+  but also to prevent two dedupes being run at once.
+- You can now fine tune the dedupe algorithm to disable DOI and ISBN matches, which may help reduce false positives within collected publications.   
 - Collaborators can now jump to their screening progress, via links in the team table and via the screening page progress bar.
 - Admin can now also view their Collaborators' screening progress summaries, which enables them to view the shortlist of accepted articles instead of using the export files. (Collaborators still cannot view each others' summaries.)
 - The screening progress summary page layout itself was improved.
