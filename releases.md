@@ -2,7 +2,7 @@
 
 # Release History 
 
-## v0.19.19 - Second Beta (July 2020)
+## v0.19.22 - Second Beta (July 2020)
 
 New Features
 
@@ -45,6 +45,9 @@ Improvements
 - Updates to the file importers should improve compatibility with RIS, Endnote, Medline etc.
 - Various technical improvements including speed and performance.
 - The "Export Includes" tab in the Article Set Export dialogue now warns you if there is nothing to export, to reduce confusion. 
+- Instant saving of rating flags, rating comments and keyword highlight words, means you don't have to reselect the include/exclude button just to save those additional options.
+- The screening page has had layout and formatting improvements to allow screening on smaller screen devices like tablets, or even mobile phones in landscape.
+  
 
 Fixes
 - Notification messages sometimes appeared in the wrong tab, if multiple browser tabs were open for the same user.
